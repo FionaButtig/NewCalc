@@ -5,7 +5,8 @@
 }
 
 button {
-  font-size: 4rem;
+  justify-content: space-around;
+  font-size: 6rem;
   color: #fff;
   flex-direction: row;
   flex-wrap: wrap;
@@ -35,10 +36,12 @@ button:hover {
 
 #numbers {
   background-color: rgb(53, 53, 53);
+  color: #fff;
 }
 
 #functions {
   background-color: rgb(53, 53, 53);
+  color: orange;
 }
 
 #clear {

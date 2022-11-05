@@ -50,3 +50,15 @@ function vorrang(){
       const i = 2+2*4;
       console.log(i);
 }
+
+
+// 2+2*3
+
+wenn lösung = 12 
+// dann mach es erst 2+2
+
+// wenn lösung = 8
+// dann macht es erst 2*3
+if()
+//2+2 = 4*3 = 12
+// 2*3 = 6+2 = 8
